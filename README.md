@@ -45,3 +45,11 @@ Issue üzerinden kendinizi, teknik uzmanlık alanlarınızı ve daha önceki ça
 **ClimateTech × GIS × Data**
 
 *Gerçek iklim problemlerine teknolojiyle uygulanabilir çözümler geliştirmek için birlikte çalışıyoruz.*
+letişim
+
+İletişim:
+Projeye katkı sağlamak veya yazılım ekibimize katılmak istiyorsanız:
+
+Issue üzerinden kendinizi ve teknik uzmanlık alanlarınızı kısaca tanıtabilirsiniz.
+
+İlgilenen ekiplerle iletişim sonrasında proje hakkında daha detaylı bilgi paylaşılacaktır.
